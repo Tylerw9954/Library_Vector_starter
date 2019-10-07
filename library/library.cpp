@@ -18,7 +18,7 @@ using namespace std;
  * then reload them from disk 
  */
 void reloadAllData(){
-
+//TODO try not saving and then reloading and try saving and reloading
 }
 
 /* checkout a book to a patron
